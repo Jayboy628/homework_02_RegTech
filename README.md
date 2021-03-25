@@ -10,7 +10,8 @@
       Founder Deepti Mohanty, Surjadinata Sumantri, William Welch Deloitte
 
 ### How did the idea for the company (or project) come about?
-      The company was founded by William welch Deloitte in London and then expanded to the United States in 1890. 144 years later the firm merged with Haskin & Sells in 1972 and later also merged with Touche Ross in 1989
+      The company was founded by William welch Deloitte in London and then expanded to the United States in 1890. 
+	  144 years later the firm merged with Haskin & Sells in 1972 and later also merged with Touche Ross in 1989
 	
 ### How is the company funded? How much funding have they received?
 Deloitte has made 6 investments. Their most recent investment was on Nov 9, 2020, when i6 Group raised.
@@ -48,19 +49,21 @@ Deloitte is the brand under which tens of thousands of dedicated professionals i
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 MarketWatch stated that “The global RegTech market revenue was estimated to be 2,3215 million in 2018 and is expected to reach 7,207.6 million by 2023, growing at a CAGR of 25.4% during the forecast period 2018-2023.” 
--	
+
 ### What are the other major companies in this domain?
 A few of the major companies in Regtech space are Chainalysis, ComplyAdvantage, and Ascent. Chainalysis company focus on Real time analysis of blockchain transactions and the customers behind the transactions. CompyAdvantage provides and application platform for Anti-money laundry (AML) and Know Your Customer (KYC) Ascent is known to Helps financial services firms automate aspects of compliance.
 
 # Results
--	
+
 ### What has been the business impact of this company so far?
+
 Regarding RegTech, Deloitte has help firms to automate the more mundane compliance tasks and reduce operational risks associate with meeting compliance and reporting obligations. Thus significantly reduce the regulatory fines and with help of 
 
 ###	 What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
--	
+
 ### How is your company performing relative to competitors in the same domain?
 
 ### Recommendations
+
 Deloitte (RegTech Universe 2021) analyzed more than 360 companies, identifying 5 main categories in RegTech. Compliance represents 41% of regularity subject area, likewise, Risk Management 14%, Identity Management and Control 23%, Regularity Reporting 14% Transaction Monitoring 8%. These categories depend on the optimization of their technology to define changes and move from complexity to (efficiency, transparency, respect) clarity. The RegTech Universe 2021 study found in total 413 RegTech solutions. For instance, Regulatory Reporting had 67 RegTech solution that Enable automated data distribution and regulatory reporting through big data analytics, real time reporting and cloud. Risk Management 51 RegTech solution, Identity management & control 85 RegTech solutions, Compliance has 173 RegTech solutions and Transaction Monitor 34 RegTech solution. I concluded from the RegTech Universe 2021 study that not one company can solve all regularity challenges especially if your company have limited finance. The key is to 
 -	
