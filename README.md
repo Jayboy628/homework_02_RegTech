@@ -61,10 +61,10 @@ global companies operating across multiple jurisdictions."</p>
 <p>
 According to ALM, Regulatory Compliance “refers to the formal operating and reporting processes designed to provide reasonable assurance that an organization is adhering to applicable internal and external policies, procedures, standards, laws, and regulations. The goal of regulatory compliance program consulting is to help clients create suitable, sustainable, and repeatable processes, supported by appropriate organizational structures and enabling systems & analytics, to address existing and evolving regulatory requirements and obligations.”</p>
 <p>
+<img src="reghub.jpg" alt="Italian Trulli">
 “The recognition by ALM of our #1 rank in both client impact and breadth of capabilities is a clear testament to how highly our clients value our advice on practical compliance with laws and regulations, as well as our insights on how to transform compliance by leveraging technology and innovative solutions,” said Henry Ristuccia, Regulatory Risk Leader, Deloitte Global Risk Advisory.
 </p>
-<strong>What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</strong>
-<p>need answers</p>
+
 <strong>Recommendations</strong>
 <p>Deloitte (RegTech Universe 2021) analyzed more than 360 companies, identifying 5 main categories in RegTech. Compliance represents 41% of regularity subject area, likewise, Risk Management 14%, Identity Management and Control 23%, Regularity Reporting 14% Transaction Monitoring 8%. These categories depend on the optimization of their technology to define changes and move from complexity to (efficiency, transparency, respect) clarity. The RegTech Universe 2021 study found in total 413 RegTech solutions. For instance, Regulatory Reporting had 67 RegTech solution that Enable automated data distribution and regulatory reporting through big data analytics, real time reporting and cloud. Risk Management 51 RegTech solution, Identity management & control 85 RegTech solutions, Compliance has 173 RegTech solutions and Transaction Monitor 34 RegTech solution. I concluded from the RegTech Universe 2021 study that not one company can solve all regularity challenges especially if your company have limited finance.</p>
 </body>
