@@ -24,5 +24,7 @@
 </dl>
 <h3>Business Activities</h3>
 <p>Deloitte provides audit, consulting, financial advisory, risk management, tax, and related services to select clients. Deloitte participating in a variety of businesses from Accounting, Advice, Consulting, Customer Service, Finance, Financial Services, Human Resources, Management Consulting, Outsourcing, Professional Services, Risk Management and Service Industry. Deloitte as an estimate of 45 acquisition and an estimate revenue range of 10B+ dollars</p>
+<strong>What specific financial problem is the company trying to solve?</strong>
+<p>Since the financial crisis of 2008, Financial services regulation has expanded at an astonish rate. The challenge is that Regulatory and Compliance as layers of complexity, this is because of the continues shifting and changing in regulatory requirements. Secondly not adherent to the regulator law and obligations has cost financial companies heavily. Complianceweek.com stated that Financial institutions have been hit with $10.4 billion in global fines and penalties related to anti-money laundering (AML), know your customer (KYC), data privacy, and MiFID (Markets in Financial Instruments Directive) <mark>regulations in 2020, bringing the total to $46.4 billion for those types of breaches since 2008.</mark></p>
 </body>
 </html>
