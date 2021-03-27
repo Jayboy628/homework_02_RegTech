@@ -43,10 +43,17 @@ However, I feel the unfair advantage Deloitte has is the decades of knowledge th
 </p>
 <strong>Which technologies are they currently using, and how are they implementing them? </strong>
 <p>Emerging technologies such as artificial intelligence (AI), machine learning, big data analytics, distributed ledger technology, and the Internet of Things (IoT), are disrupting traditional business models. In the wake of these developments, regulatory leaders are faced with a key challenge: how to best protect citizens, ensure fair markets, and enforce regulations, while allowing these new technologies and businesses to flourish?</p>
+
 <strong>What domain of the financial industry is the company in?</strong>
 <p>Deloitte is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, financial advisory, risk advisory, tax, and related services to select clients.</p>
+
 <strong>What have been the major trends and innovations of this domain over the last 5-10 years?</strong>
-<p>need better answer</p>
+<p>Financial technology certainly is one of the great trends that has transformed financial services but not only in the application of new payment systems, robo-advisory, budgeting apps or crowdfunding, to name just a few. It is the wider application of innovative technology like data analytics, artificial intelligence or cloud computing that touches upon all areas of finance. However, KPMG Global stated that "Financial institutions have faced an ever-increasing regulatory burden over
+the past 10 years. The cost of compliance has surged, particularly for
+global companies operating across multiple jurisdictions."</p>
+<img src="bank.jpg" alt="Italian Trulli" style="width:900px;height:400px;>
+
+
 <strong>What are the other major companies in this domain?</strong>
 <p>Regarding RegTech, Deloitte has help firms to automate the more mundane compliance tasks and reduce operational risks associate with meeting compliance and reporting obligations. NEW YORK, NY, USA, 25 May 2017 — Deloitte announced today that ALM Intelligence has named it as a global leader in Regulatory Compliance Program Consulting. In the report, entitled Regulatory Compliance Program Consulting 2017, ALM Intelligence highlights, “Deloitte is on the forefront of helping clients evolve and elevate the role of the chief compliance officer (CCO) and the compliance function in advancing the enterprise-wide strategic goals and business objectives through the development of deeper integration and alignment between compliance and its internal and external stakeholders.”</p>
 <p>
