@@ -39,17 +39,24 @@ However, I feel the unfair advantage Deloitte has is the decades of knowledge th
 <b>The link below demonstrates a real-life regulatory challenges and Deloitte’s services and  solutions:</b>
 <a href="https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/financial-services/sg-fsi-regtech-brochure.pdf">Deloitte Solutions</a>
 </p>
-<strong></strong>
-<p></p>
-<strong></strong>
-<p></p>
-<strong></strong>
-<p></p>
-<strong></strong>
-<p></p>
-<strong></strong>
-<p></p>
-<strong></strong>
-<p></p>
+<strong>Which technologies are they currently using, and how are they implementing them? </strong>
+<p>Emerging technologies such as artificial intelligence (AI), machine learning, big data analytics, distributed ledger technology, and the Internet of Things (IoT), are disrupting traditional business models. In the wake of these developments, regulatory leaders are faced with a key challenge: how to best protect citizens, ensure fair markets, and enforce regulations, while allowing these new technologies and businesses to flourish?</p>
+<strong>What domain of the financial industry is the company in?</strong>
+<p>Deloitte is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, financial advisory, risk advisory, tax, and related services to select clients.</p>
+<strong>What have been the major trends and innovations of this domain over the last 5-10 years?</strong>
+<p>need better answer</p>
+<strong>What are the other major companies in this domain?</strong>
+<p>Regarding RegTech, Deloitte has help firms to automate the more mundane compliance tasks and reduce operational risks associate with meeting compliance and reporting obligations. NEW YORK, NY, USA, 25 May 2017 — Deloitte announced today that ALM Intelligence has named it as a global leader in Regulatory Compliance Program Consulting. In the report, entitled Regulatory Compliance Program Consulting 2017, ALM Intelligence highlights, “Deloitte is on the forefront of helping clients evolve and elevate the role of the chief compliance officer (CCO) and the compliance function in advancing the enterprise-wide strategic goals and business objectives through the development of deeper integration and alignment between compliance and its internal and external stakeholders.”</p>
+<p>
+“Deloitte’s longstanding position as the global leader in regulatory compliance consulting has been reconfirmed in this latest report from ALM,” said Sam Balaji, Deloitte Global Risk Advisory Leader. “The extensive depth and breadth of our regulatory consulting capabilities puts Deloitte in a unique position to help Deloitte clients address their most complex regulatory challenges and to leverage regulatory risk as a source of competitive advantage.”</p>
+<p>
+According to ALM, Regulatory Compliance “refers to the formal operating and reporting processes designed to provide reasonable assurance that an organization is adhering to applicable internal and external policies, procedures, standards, laws, and regulations. The goal of regulatory compliance program consulting is to help clients create suitable, sustainable, and repeatable processes, supported by appropriate organizational structures and enabling systems & analytics, to address existing and evolving regulatory requirements and obligations.”</p>
+<p>
+“The recognition by ALM of our #1 rank in both client impact and breadth of capabilities is a clear testament to how highly our clients value our advice on practical compliance with laws and regulations, as well as our insights on how to transform compliance by leveraging technology and innovative solutions,” said Henry Ristuccia, Regulatory Risk Leader, Deloitte Global Risk Advisory.
+</p>
+<strong>What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</strong>
+<p>need answers</p>
+<strong>Recommendations</strong>
+<p>Deloitte (RegTech Universe 2021) analyzed more than 360 companies, identifying 5 main categories in RegTech. Compliance represents 41% of regularity subject area, likewise, Risk Management 14%, Identity Management and Control 23%, Regularity Reporting 14% Transaction Monitoring 8%. These categories depend on the optimization of their technology to define changes and move from complexity to (efficiency, transparency, respect) clarity. The RegTech Universe 2021 study found in total 413 RegTech solutions. For instance, Regulatory Reporting had 67 RegTech solution that Enable automated data distribution and regulatory reporting through big data analytics, real time reporting and cloud. Risk Management 51 RegTech solution, Identity management & control 85 RegTech solutions, Compliance has 173 RegTech solutions and Transaction Monitor 34 RegTech solution. I concluded from the RegTech Universe 2021 study that not one company can solve all regularity challenges especially if your company have limited finance.</p>
 </body>
 </html>
