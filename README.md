@@ -14,6 +14,10 @@
 	<dd> -Founded in 1845</dd>
 	<dt>Who are the founders of the company?</dt>
 	<dd> -Founder Deepti Mohanty, Surjadinata Sumantri, William Welch Deloitte</dd>
+	<dt>How did the idea for the company (or project) come about?</dt>
+	<dd> -The company was founded by William welch Deloitte in London and then expanded to the United States in 1890. 
+144 years later the firm merged with Haskin & Sells in 1972 and later also merged with Touche Ross in 1989
+</dd>
 	
 </dl>
 
