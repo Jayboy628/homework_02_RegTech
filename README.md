@@ -21,8 +21,8 @@
 	<dd> -Deloitte has made 6 investments. Their most recent investment was on Nov 9, 2020, when i6 Group raised.</dd>
 	<dd> -Deloitte has had 2 exits. Deloitte's most notable exits include DataChannel and Roundarch.</dd>
 	<dd> -Deloitte has acquired 45 organizations. Their most recent acquisition was TWG on Feb 18, 2021..</dd>
-	
 </dl>
-
+<h3>Business Activities</h3>
+<p>Deloitte provides audit, consulting, financial advisory, risk management, tax, and related services to select clients. Deloitte participating in a variety of businesses from Accounting, Advice, Consulting, Customer Service, Finance, Financial Services, Human Resources, Management Consulting, Outsourcing, Professional Services, Risk Management and Service Industry. Deloitte as an estimate of 45 acquisition and an estimate revenue range of 10B+ dollars</p>
 </body>
 </html>
