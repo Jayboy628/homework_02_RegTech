@@ -51,7 +51,7 @@ However, I feel the unfair advantage Deloitte has is the decades of knowledge th
 <p>Financial technology certainly is one of the great trends that has transformed financial services but not only in the application of new payment systems, robo-advisory, budgeting apps or crowdfunding, to name just a few. It is the wider application of innovative technology like data analytics, artificial intelligence or cloud computing that touches upon all areas of finance. However, KPMG Global stated that "Financial institutions have faced an ever-increasing regulatory burden over
 the past 10 years. The cost of compliance has surged, particularly for
 global companies operating across multiple jurisdictions."</p>
-<img src="bank.jpg" alt="Italian Trulli" style="width:900px;height:400px;>
+<img src="bank.jpg" alt="Italian Trulli">
 
 
 <strong>What are the other major companies in this domain?</strong>
