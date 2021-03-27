@@ -14,10 +14,13 @@
 	<dd> -Founded in 1845</dd>
 	<dt>Who are the founders of the company?</dt>
 	<dd> -Founder Deepti Mohanty, Surjadinata Sumantri, William Welch Deloitte</dd>
-	<dt>How did the idea for the company (or project) come about?</dt>
+	<dt>How did the idea for the company came about?</dt>
 	<dd> -The company was founded by William welch Deloitte in London and then expanded to the United States in 1890. 
-144 years later the firm merged with Haskin & Sells in 1972 and later also merged with Touche Ross in 1989
-</dd>
+	144 years later the firm merged with Haskin & Sells in 1972 and later also merged with Touche Ross in 1989
+	<dt>How is the company funded? How much funding have they received?</dt>
+	<dd> -Deloitte has made 6 investments. Their most recent investment was on Nov 9, 2020, when i6 Group raised.</dd>
+	<dd> -Deloitte has had 2 exits. Deloitte's most notable exits include DataChannel and Roundarch.</dd>
+	<dd> -Deloitte has acquired 45 organizations. Their most recent acquisition was TWG on Feb 18, 2021..</dd>
 	
 </dl>
 
