@@ -2,7 +2,7 @@
 <html>
 <head>
  <h1>Regulation Technology (RegTech)</h1>
- <img src="uni.jpg" alt="Italian Trulli" style="width:900px;height:400px;>
+ <img src="uni.jpg" alt="Italian Trulli" style="width:1000px;height:400px;>
 </head>
 <body>
 
